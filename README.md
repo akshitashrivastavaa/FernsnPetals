@@ -1,5 +1,5 @@
 FNP Sales Analysis Dashboard
-
+Live Dsahboard: https://1drv.ms/x/c/9DA9789CEE749B8C/IQCVDPUJbA6rS5j1-7VdXfv9AaBsLrmcuy_6V8JhV6EdaiQ
 This project presents a comprehensive sales analysis dashboard designed to evaluate the performance of an online gifting business. It consolidates key metrics and visual insights to support data-driven decision-making across sales, marketing, and operations.
 
 📊 Key Highlights
